@@ -1,0 +1,20 @@
+#bg {
+	top : 0px;
+	left : 0px;
+	height: : 1080px;
+	width : 1920px;
+	position: absolute;
+}
+#light {
+	top : 10px;
+	left : 10px;
+	height: : 1070px;
+	width : 1910px;
+	position: absolute;	
+}
+#start {
+	top : 650px;
+	left : 950px;
+	position: absolute;
+}
+
